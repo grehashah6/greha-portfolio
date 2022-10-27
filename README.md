@@ -1,5 +1,3 @@
-# Dopefolio 🔥
-
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
 ## [Demo Link](https://dopefolio.netlify.app) 🔗
